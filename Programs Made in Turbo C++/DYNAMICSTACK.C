@@ -1,14 +1,8 @@
+/* Dynamic Stack Program */
+
 /* stack can be defined as a container in which insertion
 and deletion can be done from one end which is known as top of the stack */
 
-/*
-use of stack
-1.stack is used for balancing of symbols
-2.for reversing the string
-3.undo and redo operations
-4.recursive function
-5.expresion conversion (exprsn - prefix,postfix,infix)
-*/
 
 #include<stdio.h>
 #include<conio.h>
