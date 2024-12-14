@@ -1,4 +1,6 @@
-/*Dynamic(runtime memmory allocatoin) Stack*/
+/*
+Stack using linkedlist
+Dynamic(runtime memory allocatoin) Stack*/
 
 #include<stdio.h>
 #include<conio.h>
