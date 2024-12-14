@@ -1,2 +1,2 @@
 
-Here are some c programs using Linked List 
+Here are some Linked List programs using c language
