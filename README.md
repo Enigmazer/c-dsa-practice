@@ -1,3 +1,9 @@
-# C-programs
-This are some c programs made by me while learning c.<br>
+# C Programs & DSA Practice  
+
+This repository contains C programs I built while learning the language, including:<br>
+- Basic DSA implementations.<br>
+- Small utility programs.<br>
+<br>
+Note: Some files may be experimental, created while practicing concepts.<br>
+<br>
 Author - Arun Dangi
